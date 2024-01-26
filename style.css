@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 50px 100px;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.item {
+  border: 1px solid #000;
+  background-color: #97e630;
+  color: #fff;
+  padding: 15px;
+}
+
+.box {
+  display: grid;
+}
